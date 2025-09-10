@@ -1,0 +1,166 @@
+13:43:10 - INFO: Starting ServiceMonitor
+13:43:10 - INFO: Checking all configured services...
+13:43:10 - INFO: Checking service: Spooler on server: MECISDEV01
+13:43:10 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Running
+13:43:10 - INFO: Service 'Spooler' is running as expected on MECISDEV01.
+13:43:10 - INFO: Script complete.
+13:43:33 - INFO: Starting ServiceMonitor
+13:43:33 - INFO: Checking all configured services...
+13:43:33 - INFO: Checking service: Spooler on server: MECISDEV01
+13:43:33 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+13:43:33 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+13:43:33 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+13:43:36 - INFO: Script complete.
+13:46:15 - INFO: Starting ServiceMonitor
+13:46:15 - INFO: Checking all configured services...
+13:46:15 - INFO: Checking service: Spooler on server: MECISDEV01
+13:46:15 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Running
+13:46:15 - INFO: Service 'Spooler' is running as expected on MECISDEV01.
+13:46:15 - INFO: Checking service: Spooler on server: MECISDEV02
+13:46:36 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Stopped
+13:46:36 - ERROR: Service 'Spooler' is NOT running on MECISDEV02 (Status: stopped)
+13:46:36 - INFO: Sending email: ALERT: Spooler not running on MECISDEV02
+13:46:39 - INFO: Script complete.
+13:47:10 - INFO: Starting ServiceMonitor
+13:47:10 - INFO: Checking all configured services...
+13:47:10 - INFO: Checking service: Spooler on server: MECISDEV01
+13:47:10 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+13:47:10 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+13:47:10 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+13:47:12 - INFO: Checking service: Spooler on server: MECISDEV02
+13:47:33 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Stopped
+13:47:33 - ERROR: Service 'Spooler' is NOT running on MECISDEV02 (Status: stopped)
+13:47:33 - INFO: Sending email: ALERT: Spooler not running on MECISDEV02
+13:47:35 - INFO: Script complete.
+13:52:00 - INFO: Starting ServiceMonitor
+13:52:00 - INFO: Checking all configured services...
+13:52:00 - INFO: Checking service: Spooler on server: MECISDEV01
+13:52:00 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+13:52:00 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+13:52:00 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+13:52:03 - INFO: Checking service: Spooler on server: MECISDEV02
+13:52:24 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+13:52:24 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+13:52:24 - INFO: Script complete.
+14:00:13 - INFO: Starting ServiceMonitor
+14:00:13 - INFO: Checking all configured services...
+14:00:13 - INFO: Checking service: Spooler on server: MECISDEV01
+14:00:13 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+14:00:13 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+14:00:13 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+14:00:15 - INFO: Checking service: Spooler on server: MECISDEV02
+14:00:36 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+14:00:36 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+14:00:36 - INFO: Script complete.
+14:01:27 - INFO: Starting ServiceMonitor
+14:01:27 - INFO: Checking all configured services...
+14:01:27 - INFO: Checking service: Spooler on server: MECISDEV01
+14:01:27 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+14:01:27 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+14:01:27 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+14:01:59 - INFO: Checking service: Spooler on server: MECISDEV02
+14:02:20 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+14:02:20 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+14:02:20 - INFO: Script complete.
+14:03:42 - INFO: Starting ServiceMonitor
+14:03:42 - INFO: Checking all configured services...
+14:03:42 - INFO: Checking service: Spooler on server: MECISDEV01
+14:03:42 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+14:03:42 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+14:03:42 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+14:03:45 - INFO: Checking service: Spooler on server: MECISDEV02
+14:04:06 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+14:04:06 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+14:04:06 - INFO: Script complete.
+14:07:12 - INFO: Starting ServiceMonitor
+14:07:12 - INFO: Checking all configured services...
+14:07:12 - INFO: Checking service: Spooler on server: MECISDEV01
+14:07:12 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+14:07:12 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+14:07:12 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+14:07:17 - INFO: Checking service: Spooler on server: MECISDEV02
+14:07:38 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+14:07:38 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+14:07:38 - INFO: Script complete.
+14:07:59 - INFO: Starting ServiceMonitor
+14:07:59 - INFO: Checking all configured services...
+14:07:59 - INFO: Checking service: Spooler on server: MECISDEV01
+14:08:00 - INFO: Service 'Spooler' on '\\MECISDEV01' status: Stopped
+14:08:00 - ERROR: Service 'Spooler' is NOT running on MECISDEV01 (Status: stopped)
+14:08:00 - INFO: Sending email: ALERT: Spooler not running on MECISDEV01
+14:08:04 - INFO: Checking service: Spooler on server: MECISDEV02
+14:08:25 - INFO: Service 'Spooler' on '\\MECISDEV02' status: Running
+14:08:25 - INFO: Service 'Spooler' is running as expected on MECISDEV02.
+14:08:25 - INFO: Script complete.
+14:10:32 - INFO: Starting ServiceMonitor
+14:10:32 - INFO: Checking all configured services...
+14:10:32 - INFO: Checking service: CayentaMultispeak on server: MECISDEV01
+14:10:32 - INFO: Service 'CayentaMultispeak' on '\\MECISDEV01' status: Running
+14:10:32 - INFO: Service 'CayentaMultispeak' is running as expected on MECISDEV01.
+14:10:32 - INFO: Checking service: CAYTESTROUTER on server: MECISDEV01
+14:10:32 - INFO: Service 'CAYTESTROUTER' on '\\MECISDEV01' status: Running
+14:10:32 - INFO: Service 'CAYTESTROUTER' is running as expected on MECISDEV01.
+14:10:32 - INFO: Checking service: Cayenta API CAYTEST on server: MECISDEV01
+14:10:32 - INFO: Service 'Cayenta API CAYTEST' on '\\MECISDEV01' status: Running
+14:10:32 - INFO: Service 'Cayenta API CAYTEST' is running as expected on MECISDEV01.
+14:10:32 - INFO: Checking service: CAYEXTRAROUTER on server: MECISDEV02
+14:10:53 - INFO: Service 'CAYEXTRAROUTER' on '\\MECISDEV02' status: Running
+14:10:53 - INFO: Service 'CAYEXTRAROUTER' is running as expected on MECISDEV02.
+14:10:53 - INFO: Checking service: Cayenta API CAYEXTRA on server: MECISDEV02
+14:11:14 - INFO: Service 'Cayenta API CAYEXTRA' on '\\MECISDEV02' status: Running
+14:11:14 - INFO: Service 'Cayenta API CAYEXTRA' is running as expected on MECISDEV02.
+14:11:14 - INFO: Checking service: Cayenta API CAYRM on server: MECISDEV02
+14:11:35 - INFO: Service 'Cayenta API CAYRM' on '\\MECISDEV02' status: Running
+14:11:35 - INFO: Service 'Cayenta API CAYRM' is running as expected on MECISDEV02.
+14:11:35 - INFO: Checking service: Cayenta API GIS on server: MECISDEV02
+14:11:56 - INFO: Service 'Cayenta API GIS' on '\\MECISDEV02' status: Running
+14:11:56 - INFO: Service 'Cayenta API GIS' is running as expected on MECISDEV02.
+14:11:56 - INFO: Checking service: Cayenta API REPORTING on server: MECISDEV02
+14:12:17 - INFO: Service 'Cayenta API REPORTING' on '\\MECISDEV02' status: Running
+14:12:17 - INFO: Service 'Cayenta API REPORTING' is running as expected on MECISDEV02.
+14:12:17 - INFO: Checking service: Cayenta API CAYTEST on server: MECISDEV03
+14:12:38 - INFO: Service 'Cayenta API CAYTEST' on '\\MECISDEV03' status: Running
+14:12:38 - INFO: Service 'Cayenta API CAYTEST' is running as expected on MECISDEV03.
+14:12:38 - INFO: Checking service: Cayenta API CAYTRAIN on server: MECISDEV03
+14:12:59 - INFO: Service 'Cayenta API CAYTRAIN' on '\\MECISDEV03' status: Running
+14:12:59 - INFO: Service 'Cayenta API CAYTRAIN' is running as expected on MECISDEV03.
+14:12:59 - INFO: Checking service: Cayenta API PYMT on server: MECISDEV03
+14:13:20 - INFO: Service 'Cayenta API PYMT' on '\\MECISDEV03' status: Running
+14:13:20 - INFO: Service 'Cayenta API PYMT' is running as expected on MECISDEV03.
+14:13:20 - INFO: Checking service: Cayenta API CAYDEV on server: MECISDEV04
+14:13:41 - INFO: Service 'Cayenta API CAYDEV' on '\\MECISDEV04' status: Running
+14:13:41 - INFO: Service 'Cayenta API CAYDEV' is running as expected on MECISDEV04.
+14:13:41 - INFO: Checking service: Cayenta API INTERFACE on server: MECISDEV04
+14:14:02 - INFO: Service 'Cayenta API INTERFACE' on '\\MECISDEV04' status: Running
+14:14:02 - INFO: Service 'Cayenta API INTERFACE' is running as expected on MECISDEV04.
+14:14:02 - INFO: Checking service: Cayenta API IVR on server: MECISDEV04
+14:14:23 - INFO: Service 'Cayenta API IVR' on '\\MECISDEV04' status: Running
+14:14:23 - INFO: Service 'Cayenta API IVR' is running as expected on MECISDEV04.
+14:14:23 - INFO: Script complete.
+14:16:53 - INFO: Starting ServiceMonitor
+14:16:53 - INFO: Checking all configured services...
+14:16:53 - INFO: Checking service: Cayenta API IVR on server: MECISAPP04
+14:17:15 - INFO: Service 'Cayenta API IVR' on '\\MECISAPP04' status: Running
+14:17:15 - INFO: Service 'Cayenta API IVR' is running as expected on MECISAPP04.
+14:17:15 - INFO: Checking service: CayentaMultispeak on server: MECISDEV01
+14:17:15 - INFO: Service 'CayentaMultispeak' on '\\MECISDEV01' status: Running
+14:17:15 - INFO: Service 'CayentaMultispeak' is running as expected on MECISDEV01.
+14:17:15 - INFO: Checking service: CAYTESTROUTER on server: MECISDEV01
+14:17:15 - INFO: Service 'CAYTESTROUTER' on '\\MECISDEV01' status: Running
+14:17:15 - INFO: Service 'CAYTESTROUTER' is running as expected on MECISDEV01.
+14:17:15 - INFO: Checking service: Cayenta API CAYTEST on server: MECISDEV01
+14:17:15 - INFO: Service 'Cayenta API CAYTEST' on '\\MECISDEV01' status: Running
+14:17:15 - INFO: Service 'Cayenta API CAYTEST' is running as expected on MECISDEV01.
+14:17:15 - INFO: Checking service: CAYEXTRAROUTER on server: MECISDEV02
+14:17:36 - INFO: Service 'CAYEXTRAROUTER' on '\\MECISDEV02' status: Running
+14:17:36 - INFO: Service 'CAYEXTRAROUTER' is running as expected on MECISDEV02.
+14:17:36 - INFO: Checking service: Cayenta API CAYEXTRA on server: MECISDEV02
+14:17:57 - INFO: Service 'Cayenta API CAYEXTRA' on '\\MECISDEV02' status: Running
+14:17:57 - INFO: Service 'Cayenta API CAYEXTRA' is running as expected on MECISDEV02.
+14:17:57 - INFO: Checking service: Cayenta API CAYRM on server: MECISDEV02
+14:18:18 - INFO: Service 'Cayenta API CAYRM' on '\\MECISDEV02' status: Running
+14:18:18 - INFO: Service 'Cayenta API CAYRM' is running as expected on MECISDEV02.
+14:18:18 - INFO: Checking service: Cayenta API GIS on server: MECISDEV02
+14:18:39 - INFO: Service 'Cayenta API GIS' on '\\MECISDEV02' status: Running
+14:18:39 - INFO: Service 'Cayenta API GIS' is running as expected on MECISDEV02.
+14:18:39 - INFO: Checking service: Cayenta API REPORTING on server: MECISDEV02
