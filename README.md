@@ -1,4 +1,3 @@
-```markdown
 #  Windows Service Monitoring Tool
 
 This tool monitors the status of specified Windows services across multiple servers and sends alert emails if any service is not running. It is designed to be run periodically (e.g., every 15 minutes) using **Windows Task Scheduler**.
